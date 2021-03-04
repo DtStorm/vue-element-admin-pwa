@@ -1,6 +1,5 @@
 // 导入workbox
 importScripts('https://g.alicdn.com/kg/workbox/3.6.3/workbox-sw.js')
-importScripts('https://g.alicdn.com/kg/workbox/3.6.3/workbox-sw.js')
 
 workbox.setConfig({
   modulePathPrefix: 'https://g.alicdn.com/kg/workbox/3.6.3/'
